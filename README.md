@@ -48,5 +48,5 @@ Expected usage:
 
 ## Live Deployment
 
-**Frontend:** [Add your deployed frontend URL here]
-**Backend:** [Add your deployed backend URL here]
+**Frontend:** [https://stately-flan-d33de5.netlify.app/]
+**Backend:** [https://coderecall-ai.onrender.com]
