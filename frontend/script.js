@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:3000"; // Replace with your backend URL in deployment
+const API_BASE_URL = "https://coderecall-ai.onrender.com"; // Replace with your backend URL in deployment
 
 const codeInput = document.getElementById("codeInput");
 const problemInput = document.getElementById("problemInput");
